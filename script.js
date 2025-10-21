@@ -79,7 +79,6 @@ function checkInputPasswordConfirmation(){
 
 }
 
-
 function checkForm(){
   checkInputUsername();
   checkInputEmail();
